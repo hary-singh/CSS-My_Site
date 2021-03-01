@@ -48,6 +48,10 @@ a{
     text-decoration: none;
 }
 
+a:hover{
+    color: #eaf6f6;
+}
+
 .middle-container{
     margin: 100px 0;
 }
@@ -125,4 +129,10 @@ a{
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
+  }
+
+  .copyright{
+      color: #eaf6f6;
+      font-size: 0.75rem;
+      padding: 20px 0px;
   }
