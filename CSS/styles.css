@@ -52,6 +52,11 @@ a:hover{
     color: #eaf6f6;
 }
 
+.harry-img{
+    width: 300px;
+    height: 300px;
+}
+
 .middle-container{
     margin: 100px 0;
 }
